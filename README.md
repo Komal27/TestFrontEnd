@@ -12,4 +12,4 @@ npm install -g json-server
 json-server --port=3009 --watch <yourJsonFIleName>.json
 
 ## To start browser sync
-browser-sync start --server –files "css/*.css, js/*.js *.html"
+``browser-sync start --server –files "css/*.css, js/*.js, *.html"``
